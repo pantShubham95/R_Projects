@@ -1,4 +1,4 @@
-<h1>Project: Rise and Fall of Programming Languages<h1>
+<h1>Project: Rise and Fall of Programming Languages</h1>
 
 How can we tell what programming languages and technologies are used by the most people? How about what languages are growing and which are shrinking, so that we can tell which are most worth investing time in?
 
